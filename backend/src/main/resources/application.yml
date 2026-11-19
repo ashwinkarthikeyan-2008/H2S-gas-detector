@@ -1,0 +1,51 @@
+server:
+  port: 8080
+  servlet:
+    context-path: /
+
+spring:
+  servlet:
+    multipart:
+      max-file-size: 100MB
+      max-request-size: 105MB
+  application:
+    name: chromaguard-backend
+  datasource:
+    url: jdbc:h2:file:./data/chromaguarddb;DB_CLOSE_ON_EXIT=FALSE;NON_KEYWORDS=USER,VALUE
+    driverClassName: org.h2.Driver
+    username: sa
+    password: password
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: false
+    properties:
+      hibernate:
+        format_sql: false
+  h2:
+    console:
+      enabled: true
+      path: /h2-console
+      settings:
+        web-allow-others: false
+
+# ChromaGuard Demonstration Configuration
+chromaguard:
+  demo:
+    enabled: false
+    mode: "SIMULATION_EDUCATIONAL"
+    disclaimer: "ChromaGuard is a software-only educational prototype based on synthetic data. It is not a certified H2S detector, exposure dosimeter, or life-safety system."
+    thresholds:
+      elevated-ppm-hr: 8.0
+      warning-ppm-hr: 15.0
+      critical-ppm-hr: 20.0
+    datasets:
+      zones-path: "data/datasets/zones.csv"
+      shifts-path: "data/datasets/shifts.csv"
+
+logging:
+  level:
+    root: INFO
+    com.chromaguard: DEBUG
+    org.springframework.web: INFO
+    org.hibernate: WARN

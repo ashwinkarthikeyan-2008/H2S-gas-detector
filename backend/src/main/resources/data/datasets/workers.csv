@@ -1,0 +1,41 @@
+worker_id,synthetic_name,assigned_zone_id,preferred_shift_id,role,experience_years,badge_id
+W-101,"Marcus Vance",ZONE-01,SHIFT-M,"Lead Process Tech",12,CG-BDG-8000
+W-102,"Elena Reyes",ZONE-02,SHIFT-A,"Field Instrumentation Specialist",10,CG-BDG-8001
+W-103,"Devon Mercer",ZONE-03,SHIFT-N,"Safety Inspector",17,CG-BDG-8002
+W-104,"Amina Siddiqui",ZONE-04,SHIFT-M,"Pipefitter Specialist",14,CG-BDG-8003
+W-105,"Chen Wei",ZONE-05,SHIFT-A,"Corrosion Monitoring Tech",5,CG-BDG-8004
+W-106,"Javier Morales",ZONE-01,SHIFT-N,"Operations Operator",11,CG-BDG-8005
+W-107,"Sarah Jennings",ZONE-02,SHIFT-M,"Lead Process Tech",6,CG-BDG-8006
+W-108,"Kowalski Novak",ZONE-03,SHIFT-A,"Field Instrumentation Specialist",13,CG-BDG-8007
+W-109,"Priya Patel",ZONE-04,SHIFT-N,"Safety Inspector",17,CG-BDG-8008
+W-110,"Liam Callahan",ZONE-05,SHIFT-M,"Pipefitter Specialist",10,CG-BDG-8009
+W-111,"Ananya Deshmukh",ZONE-01,SHIFT-A,"Corrosion Monitoring Tech",6,CG-BDG-8010
+W-112,"Tariq Al-Mansoor",ZONE-02,SHIFT-N,"Operations Operator",17,CG-BDG-8011
+W-113,"Mateo Silva",ZONE-03,SHIFT-M,"Lead Process Tech",15,CG-BDG-8012
+W-114,"Ingrid Lindstrom",ZONE-04,SHIFT-A,"Field Instrumentation Specialist",7,CG-BDG-8013
+W-115,"Fatima Bello",ZONE-05,SHIFT-N,"Safety Inspector",5,CG-BDG-8014
+W-116,"Dmitri Volkov",ZONE-01,SHIFT-M,"Pipefitter Specialist",11,CG-BDG-8015
+W-117,"Chloe Dupont",ZONE-02,SHIFT-A,"Corrosion Monitoring Tech",14,CG-BDG-8016
+W-118,"Zane Kessler",ZONE-03,SHIFT-N,"Operations Operator",12,CG-BDG-8017
+W-119,"Siddharth Nair",ZONE-04,SHIFT-M,"Lead Process Tech",2,CG-BDG-8018
+W-120,"Grace Thornton",ZONE-05,SHIFT-A,"Field Instrumentation Specialist",10,CG-BDG-8019
+W-121,"Oluwaseun Adeyemi",ZONE-01,SHIFT-N,"Safety Inspector",17,CG-BDG-8020
+W-122,"Rohan Verma",ZONE-02,SHIFT-M,"Pipefitter Specialist",2,CG-BDG-8021
+W-123,"Leila Garrido",ZONE-03,SHIFT-A,"Corrosion Monitoring Tech",12,CG-BDG-8022
+W-124,"Hugo Benoit",ZONE-04,SHIFT-N,"Operations Operator",2,CG-BDG-8023
+W-125,"Astrid Berg",ZONE-05,SHIFT-M,"Lead Process Tech",6,CG-BDG-8024
+W-126,"Kenji Takahashi",ZONE-01,SHIFT-A,"Field Instrumentation Specialist",3,CG-BDG-8025
+W-127,"Amira Husseini",ZONE-02,SHIFT-N,"Safety Inspector",5,CG-BDG-8026
+W-128,"Julian Sterling",ZONE-03,SHIFT-M,"Pipefitter Specialist",16,CG-BDG-8027
+W-129,"Yuki Tanaka",ZONE-04,SHIFT-A,"Corrosion Monitoring Tech",11,CG-BDG-8028
+W-130,"Carlos Guerrero",ZONE-05,SHIFT-N,"Operations Operator",2,CG-BDG-8029
+W-131,"Farhan Qazi",ZONE-01,SHIFT-M,"Lead Process Tech",5,CG-BDG-8030
+W-132,"Nadia Azar",ZONE-02,SHIFT-A,"Field Instrumentation Specialist",17,CG-BDG-8031
+W-133,"Bram Van Dijk",ZONE-03,SHIFT-N,"Safety Inspector",10,CG-BDG-8032
+W-134,"Sunita Choudhury",ZONE-04,SHIFT-M,"Pipefitter Specialist",16,CG-BDG-8033
+W-135,"Emil Kovac",ZONE-05,SHIFT-A,"Corrosion Monitoring Tech",7,CG-BDG-8034
+W-136,"Daphne Sinclair",ZONE-01,SHIFT-N,"Operations Operator",10,CG-BDG-8035
+W-137,"Haruto Watanabe",ZONE-02,SHIFT-M,"Lead Process Tech",2,CG-BDG-8036
+W-138,"Mei Lin",ZONE-03,SHIFT-A,"Field Instrumentation Specialist",2,CG-BDG-8037
+W-139,"Declan O'Connor",ZONE-04,SHIFT-N,"Safety Inspector",12,CG-BDG-8038
+W-140,"Sari Holt",ZONE-05,SHIFT-M,"Pipefitter Specialist",12,CG-BDG-8039

@@ -1,0 +1,4 @@
+shift_id,shift_name,start_time,end_time,duration_hours
+SHIFT-M,"Morning Shift",06:00:00,14:00:00,8
+SHIFT-A,"Afternoon Shift",14:00:00,22:00:00,8
+SHIFT-N,"Night Shift",22:00:00,06:00:00,8

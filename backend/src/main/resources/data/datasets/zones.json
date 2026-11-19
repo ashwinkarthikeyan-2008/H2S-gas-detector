@@ -1,0 +1,36 @@
+[ {
+  "zone_id" : "ZONE-01",
+  "zone_code" : "CCU",
+  "zone_name" : "Catalyst Cracking Unit",
+  "risk_tier" : "MEDIUM",
+  "baseline_exposure_ppm_hr" : 3.2,
+  "description" : "Hydrocarbon cracking with moderate H2S catalyst residue"
+}, {
+  "zone_id" : "ZONE-02",
+  "zone_code" : "AGR",
+  "zone_name" : "Acid Gas Recovery",
+  "risk_tier" : "HIGH",
+  "baseline_exposure_ppm_hr" : 7.8,
+  "description" : "Amine gas treating unit absorbing hydrogen sulfide and carbon dioxide"
+}, {
+  "zone_id" : "ZONE-03",
+  "zone_code" : "STTF",
+  "zone_name" : "Sulfur Treatment Tank Farm",
+  "risk_tier" : "HIGH",
+  "baseline_exposure_ppm_hr" : 8.5,
+  "description" : "Claus reaction effluent storage tanks with elevated ambient volatility"
+}, {
+  "zone_id" : "ZONE-04",
+  "zone_code" : "DT",
+  "zone_name" : "Desulfurization Trench",
+  "risk_tier" : "CRITICAL",
+  "baseline_exposure_ppm_hr" : 11.4,
+  "description" : "Below-grade drainage culvert prone to heavy gas accumulation"
+}, {
+  "zone_id" : "ZONE-05",
+  "zone_code" : "RLT",
+  "zone_name" : "Rail Loading Terminal",
+  "risk_tier" : "LOW",
+  "baseline_exposure_ppm_hr" : 1.8,
+  "description" : "Open-air transfer racks and pressurized rail tanker loading depot"
+} ]

@@ -1,0 +1,27 @@
+# Java build output
+backend/target/
+
+# Local H2 database files
+backend/data/*.mv.db
+backend/data/*.trace.db
+
+# Frontend dependencies and build output
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# Runtime logs and local launch artifacts
+*.log
+backend/run-new.args
+backend/run-server.cmd
+
+# Local environment files
+.env
+.env.*
+!.env.example
+
+# IDE and OS files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db

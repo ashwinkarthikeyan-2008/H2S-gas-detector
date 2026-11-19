@@ -1,0 +1,321 @@
+[ {
+  "worker_id" : "W-101",
+  "synthetic_name" : "Marcus Vance",
+  "assigned_zone_id" : "ZONE-01",
+  "preferred_shift_id" : "SHIFT-M",
+  "role" : "Lead Process Tech",
+  "experience_years" : 12,
+  "badge_id" : "CG-BDG-8000"
+}, {
+  "worker_id" : "W-102",
+  "synthetic_name" : "Elena Reyes",
+  "assigned_zone_id" : "ZONE-02",
+  "preferred_shift_id" : "SHIFT-A",
+  "role" : "Field Instrumentation Specialist",
+  "experience_years" : 10,
+  "badge_id" : "CG-BDG-8001"
+}, {
+  "worker_id" : "W-103",
+  "synthetic_name" : "Devon Mercer",
+  "assigned_zone_id" : "ZONE-03",
+  "preferred_shift_id" : "SHIFT-N",
+  "role" : "Safety Inspector",
+  "experience_years" : 17,
+  "badge_id" : "CG-BDG-8002"
+}, {
+  "worker_id" : "W-104",
+  "synthetic_name" : "Amina Siddiqui",
+  "assigned_zone_id" : "ZONE-04",
+  "preferred_shift_id" : "SHIFT-M",
+  "role" : "Pipefitter Specialist",
+  "experience_years" : 14,
+  "badge_id" : "CG-BDG-8003"
+}, {
+  "worker_id" : "W-105",
+  "synthetic_name" : "Chen Wei",
+  "assigned_zone_id" : "ZONE-05",
+  "preferred_shift_id" : "SHIFT-A",
+  "role" : "Corrosion Monitoring Tech",
+  "experience_years" : 5,
+  "badge_id" : "CG-BDG-8004"
+}, {
+  "worker_id" : "W-106",
+  "synthetic_name" : "Javier Morales",
+  "assigned_zone_id" : "ZONE-01",
+  "preferred_shift_id" : "SHIFT-N",
+  "role" : "Operations Operator",
+  "experience_years" : 11,
+  "badge_id" : "CG-BDG-8005"
+}, {
+  "worker_id" : "W-107",
+  "synthetic_name" : "Sarah Jennings",
+  "assigned_zone_id" : "ZONE-02",
+  "preferred_shift_id" : "SHIFT-M",
+  "role" : "Lead Process Tech",
+  "experience_years" : 6,
+  "badge_id" : "CG-BDG-8006"
+}, {
+  "worker_id" : "W-108",
+  "synthetic_name" : "Kowalski Novak",
+  "assigned_zone_id" : "ZONE-03",
+  "preferred_shift_id" : "SHIFT-A",
+  "role" : "Field Instrumentation Specialist",
+  "experience_years" : 13,
+  "badge_id" : "CG-BDG-8007"
+}, {
+  "worker_id" : "W-109",
+  "synthetic_name" : "Priya Patel",
+  "assigned_zone_id" : "ZONE-04",
+  "preferred_shift_id" : "SHIFT-N",
+  "role" : "Safety Inspector",
+  "experience_years" : 17,
+  "badge_id" : "CG-BDG-8008"
+}, {
+  "worker_id" : "W-110",
+  "synthetic_name" : "Liam Callahan",
+  "assigned_zone_id" : "ZONE-05",
+  "preferred_shift_id" : "SHIFT-M",
+  "role" : "Pipefitter Specialist",
+  "experience_years" : 10,
+  "badge_id" : "CG-BDG-8009"
+}, {
+  "worker_id" : "W-111",
+  "synthetic_name" : "Ananya Deshmukh",
+  "assigned_zone_id" : "ZONE-01",
+  "preferred_shift_id" : "SHIFT-A",
+  "role" : "Corrosion Monitoring Tech",
+  "experience_years" : 6,
+  "badge_id" : "CG-BDG-8010"
+}, {
+  "worker_id" : "W-112",
+  "synthetic_name" : "Tariq Al-Mansoor",
+  "assigned_zone_id" : "ZONE-02",
+  "preferred_shift_id" : "SHIFT-N",
+  "role" : "Operations Operator",
+  "experience_years" : 17,
+  "badge_id" : "CG-BDG-8011"
+}, {
+  "worker_id" : "W-113",
+  "synthetic_name" : "Mateo Silva",
+  "assigned_zone_id" : "ZONE-03",
+  "preferred_shift_id" : "SHIFT-M",
+  "role" : "Lead Process Tech",
+  "experience_years" : 15,
+  "badge_id" : "CG-BDG-8012"
+}, {
+  "worker_id" : "W-114",
+  "synthetic_name" : "Ingrid Lindstrom",
+  "assigned_zone_id" : "ZONE-04",
+  "preferred_shift_id" : "SHIFT-A",
+  "role" : "Field Instrumentation Specialist",
+  "experience_years" : 7,
+  "badge_id" : "CG-BDG-8013"
+}, {
+  "worker_id" : "W-115",
+  "synthetic_name" : "Fatima Bello",
+  "assigned_zone_id" : "ZONE-05",
+  "preferred_shift_id" : "SHIFT-N",
+  "role" : "Safety Inspector",
+  "experience_years" : 5,
+  "badge_id" : "CG-BDG-8014"
+}, {
+  "worker_id" : "W-116",
+  "synthetic_name" : "Dmitri Volkov",
+  "assigned_zone_id" : "ZONE-01",
+  "preferred_shift_id" : "SHIFT-M",
+  "role" : "Pipefitter Specialist",
+  "experience_years" : 11,
+  "badge_id" : "CG-BDG-8015"
+}, {
+  "worker_id" : "W-117",
+  "synthetic_name" : "Chloe Dupont",
+  "assigned_zone_id" : "ZONE-02",
+  "preferred_shift_id" : "SHIFT-A",
+  "role" : "Corrosion Monitoring Tech",
+  "experience_years" : 14,
+  "badge_id" : "CG-BDG-8016"
+}, {
+  "worker_id" : "W-118",
+  "synthetic_name" : "Zane Kessler",
+  "assigned_zone_id" : "ZONE-03",
+  "preferred_shift_id" : "SHIFT-N",
+  "role" : "Operations Operator",
+  "experience_years" : 12,
+  "badge_id" : "CG-BDG-8017"
+}, {
+  "worker_id" : "W-119",
+  "synthetic_name" : "Siddharth Nair",
+  "assigned_zone_id" : "ZONE-04",
+  "preferred_shift_id" : "SHIFT-M",
+  "role" : "Lead Process Tech",
+  "experience_years" : 2,
+  "badge_id" : "CG-BDG-8018"
+}, {
+  "worker_id" : "W-120",
+  "synthetic_name" : "Grace Thornton",
+  "assigned_zone_id" : "ZONE-05",
+  "preferred_shift_id" : "SHIFT-A",
+  "role" : "Field Instrumentation Specialist",
+  "experience_years" : 10,
+  "badge_id" : "CG-BDG-8019"
+}, {
+  "worker_id" : "W-121",
+  "synthetic_name" : "Oluwaseun Adeyemi",
+  "assigned_zone_id" : "ZONE-01",
+  "preferred_shift_id" : "SHIFT-N",
+  "role" : "Safety Inspector",
+  "experience_years" : 17,
+  "badge_id" : "CG-BDG-8020"
+}, {
+  "worker_id" : "W-122",
+  "synthetic_name" : "Rohan Verma",
+  "assigned_zone_id" : "ZONE-02",
+  "preferred_shift_id" : "SHIFT-M",
+  "role" : "Pipefitter Specialist",
+  "experience_years" : 2,
+  "badge_id" : "CG-BDG-8021"
+}, {
+  "worker_id" : "W-123",
+  "synthetic_name" : "Leila Garrido",
+  "assigned_zone_id" : "ZONE-03",
+  "preferred_shift_id" : "SHIFT-A",
+  "role" : "Corrosion Monitoring Tech",
+  "experience_years" : 12,
+  "badge_id" : "CG-BDG-8022"
+}, {
+  "worker_id" : "W-124",
+  "synthetic_name" : "Hugo Benoit",
+  "assigned_zone_id" : "ZONE-04",
+  "preferred_shift_id" : "SHIFT-N",
+  "role" : "Operations Operator",
+  "experience_years" : 2,
+  "badge_id" : "CG-BDG-8023"
+}, {
+  "worker_id" : "W-125",
+  "synthetic_name" : "Astrid Berg",
+  "assigned_zone_id" : "ZONE-05",
+  "preferred_shift_id" : "SHIFT-M",
+  "role" : "Lead Process Tech",
+  "experience_years" : 6,
+  "badge_id" : "CG-BDG-8024"
+}, {
+  "worker_id" : "W-126",
+  "synthetic_name" : "Kenji Takahashi",
+  "assigned_zone_id" : "ZONE-01",
+  "preferred_shift_id" : "SHIFT-A",
+  "role" : "Field Instrumentation Specialist",
+  "experience_years" : 3,
+  "badge_id" : "CG-BDG-8025"
+}, {
+  "worker_id" : "W-127",
+  "synthetic_name" : "Amira Husseini",
+  "assigned_zone_id" : "ZONE-02",
+  "preferred_shift_id" : "SHIFT-N",
+  "role" : "Safety Inspector",
+  "experience_years" : 5,
+  "badge_id" : "CG-BDG-8026"
+}, {
+  "worker_id" : "W-128",
+  "synthetic_name" : "Julian Sterling",
+  "assigned_zone_id" : "ZONE-03",
+  "preferred_shift_id" : "SHIFT-M",
+  "role" : "Pipefitter Specialist",
+  "experience_years" : 16,
+  "badge_id" : "CG-BDG-8027"
+}, {
+  "worker_id" : "W-129",
+  "synthetic_name" : "Yuki Tanaka",
+  "assigned_zone_id" : "ZONE-04",
+  "preferred_shift_id" : "SHIFT-A",
+  "role" : "Corrosion Monitoring Tech",
+  "experience_years" : 11,
+  "badge_id" : "CG-BDG-8028"
+}, {
+  "worker_id" : "W-130",
+  "synthetic_name" : "Carlos Guerrero",
+  "assigned_zone_id" : "ZONE-05",
+  "preferred_shift_id" : "SHIFT-N",
+  "role" : "Operations Operator",
+  "experience_years" : 2,
+  "badge_id" : "CG-BDG-8029"
+}, {
+  "worker_id" : "W-131",
+  "synthetic_name" : "Farhan Qazi",
+  "assigned_zone_id" : "ZONE-01",
+  "preferred_shift_id" : "SHIFT-M",
+  "role" : "Lead Process Tech",
+  "experience_years" : 5,
+  "badge_id" : "CG-BDG-8030"
+}, {
+  "worker_id" : "W-132",
+  "synthetic_name" : "Nadia Azar",
+  "assigned_zone_id" : "ZONE-02",
+  "preferred_shift_id" : "SHIFT-A",
+  "role" : "Field Instrumentation Specialist",
+  "experience_years" : 17,
+  "badge_id" : "CG-BDG-8031"
+}, {
+  "worker_id" : "W-133",
+  "synthetic_name" : "Bram Van Dijk",
+  "assigned_zone_id" : "ZONE-03",
+  "preferred_shift_id" : "SHIFT-N",
+  "role" : "Safety Inspector",
+  "experience_years" : 10,
+  "badge_id" : "CG-BDG-8032"
+}, {
+  "worker_id" : "W-134",
+  "synthetic_name" : "Sunita Choudhury",
+  "assigned_zone_id" : "ZONE-04",
+  "preferred_shift_id" : "SHIFT-M",
+  "role" : "Pipefitter Specialist",
+  "experience_years" : 16,
+  "badge_id" : "CG-BDG-8033"
+}, {
+  "worker_id" : "W-135",
+  "synthetic_name" : "Emil Kovac",
+  "assigned_zone_id" : "ZONE-05",
+  "preferred_shift_id" : "SHIFT-A",
+  "role" : "Corrosion Monitoring Tech",
+  "experience_years" : 7,
+  "badge_id" : "CG-BDG-8034"
+}, {
+  "worker_id" : "W-136",
+  "synthetic_name" : "Daphne Sinclair",
+  "assigned_zone_id" : "ZONE-01",
+  "preferred_shift_id" : "SHIFT-N",
+  "role" : "Operations Operator",
+  "experience_years" : 10,
+  "badge_id" : "CG-BDG-8035"
+}, {
+  "worker_id" : "W-137",
+  "synthetic_name" : "Haruto Watanabe",
+  "assigned_zone_id" : "ZONE-02",
+  "preferred_shift_id" : "SHIFT-M",
+  "role" : "Lead Process Tech",
+  "experience_years" : 2,
+  "badge_id" : "CG-BDG-8036"
+}, {
+  "worker_id" : "W-138",
+  "synthetic_name" : "Mei Lin",
+  "assigned_zone_id" : "ZONE-03",
+  "preferred_shift_id" : "SHIFT-A",
+  "role" : "Field Instrumentation Specialist",
+  "experience_years" : 2,
+  "badge_id" : "CG-BDG-8037"
+}, {
+  "worker_id" : "W-139",
+  "synthetic_name" : "Declan O'Connor",
+  "assigned_zone_id" : "ZONE-04",
+  "preferred_shift_id" : "SHIFT-N",
+  "role" : "Safety Inspector",
+  "experience_years" : 12,
+  "badge_id" : "CG-BDG-8038"
+}, {
+  "worker_id" : "W-140",
+  "synthetic_name" : "Sari Holt",
+  "assigned_zone_id" : "ZONE-05",
+  "preferred_shift_id" : "SHIFT-M",
+  "role" : "Pipefitter Specialist",
+  "experience_years" : 12,
+  "badge_id" : "CG-BDG-8039"
+} ]

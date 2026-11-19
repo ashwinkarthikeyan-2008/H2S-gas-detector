@@ -1,0 +1,6 @@
+zone_id,zone_code,zone_name,risk_tier,baseline_exposure_ppm_hr,description
+ZONE-01,CCU,"Catalyst Cracking Unit",MEDIUM,3.2,"Hydrocarbon cracking with moderate H2S catalyst residue"
+ZONE-02,AGR,"Acid Gas Recovery",HIGH,7.8,"Amine gas treating unit absorbing hydrogen sulfide and carbon dioxide"
+ZONE-03,STTF,"Sulfur Treatment Tank Farm",HIGH,8.5,"Claus reaction effluent storage tanks with elevated ambient volatility"
+ZONE-04,DT,"Desulfurization Trench",CRITICAL,11.4,"Below-grade drainage culvert prone to heavy gas accumulation"
+ZONE-05,RLT,"Rail Loading Terminal",LOW,1.8,"Open-air transfer racks and pressurized rail tanker loading depot"

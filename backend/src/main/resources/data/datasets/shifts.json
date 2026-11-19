@@ -1,0 +1,19 @@
+[ {
+  "shift_id" : "SHIFT-M",
+  "shift_name" : "Morning Shift",
+  "start_time" : "06:00:00",
+  "end_time" : "14:00:00",
+  "duration_hours" : 8
+}, {
+  "shift_id" : "SHIFT-A",
+  "shift_name" : "Afternoon Shift",
+  "start_time" : "14:00:00",
+  "end_time" : "22:00:00",
+  "duration_hours" : 8
+}, {
+  "shift_id" : "SHIFT-N",
+  "shift_name" : "Night Shift",
+  "start_time" : "22:00:00",
+  "end_time" : "06:00:00",
+  "duration_hours" : 8
+} ]
